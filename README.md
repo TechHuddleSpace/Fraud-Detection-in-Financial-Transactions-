@@ -18,7 +18,6 @@ Dataset link: https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-de
 - [Setup Instructions](#setup-instructions)
 - [How to Run](#how-to-run)
 - [Model Training (Notebook)](#model-training-notebook)
-- [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
 
 ---
