@@ -3,7 +3,7 @@
 This is a machine learning-based web application to **detect fraudulent financial transactions** using transaction data. It uses a trained model to predict whether a given transaction is fraudulent or not, based on user inputs like transaction type, amount, and account balances.
 
 <p align="center">
-  <img src="AppLook.png" />
+  <img src="Fraud Detection.png" />
 " alt="App Screenshot" width="600">
 </p>
 
